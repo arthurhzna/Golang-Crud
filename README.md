@@ -26,7 +26,7 @@ A RESTful API implementation using Go (Golang) with PostgreSQL as the database. 
 
 ## 📁 Project Structure
 ```plaintext
-rest_api/
+<main golder>/
 ├── app/
 │   ├── database.go        # Database configuration
 │   └── router.go          # Router setup
